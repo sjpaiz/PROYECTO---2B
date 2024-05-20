@@ -1,0 +1,14 @@
+C:\Users\sofia\PROYECTO (AJEDREZ)\bin\Debug\net8.0\PROYECTO (AJEDREZ).exe
+C:\Users\sofia\PROYECTO (AJEDREZ)\bin\Debug\net8.0\PROYECTO (AJEDREZ).deps.json
+C:\Users\sofia\PROYECTO (AJEDREZ)\bin\Debug\net8.0\PROYECTO (AJEDREZ).runtimeconfig.json
+C:\Users\sofia\PROYECTO (AJEDREZ)\bin\Debug\net8.0\PROYECTO (AJEDREZ).dll
+C:\Users\sofia\PROYECTO (AJEDREZ)\bin\Debug\net8.0\PROYECTO (AJEDREZ).pdb
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\PROYECTO (AJEDREZ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\PROYECTO (AJEDREZ).AssemblyInfoInputs.cache
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\PROYECTO (AJEDREZ).AssemblyInfo.cs
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\PROYECTO (AJEDREZ).csproj.CoreCompileInputs.cache
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\PROYECTO (AJEDREZ).dll
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\refint\PROYECTO (AJEDREZ).dll
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\PROYECTO (AJEDREZ).pdb
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\PROYECTO (AJEDREZ).genruntimeconfig.cache
+C:\Users\sofia\PROYECTO (AJEDREZ)\obj\Debug\net8.0\ref\PROYECTO (AJEDREZ).dll
